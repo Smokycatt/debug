@@ -1,0 +1,15 @@
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\If then adventure.exe
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\If then adventure.deps.json
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\If then adventure.runtimeconfig.json
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\If then adventure.dll
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\ref\If then adventure.dll
+C:\Users\duane\source\repos\If then adventure\If then adventure\bin\Debug\net6.0\If then adventure.pdb
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.csproj.AssemblyReference.cache
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.AssemblyInfoInputs.cache
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.AssemblyInfo.cs
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.csproj.CoreCompileInputs.cache
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.dll
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\ref\If then adventure.dll
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.pdb
+C:\Users\duane\source\repos\If then adventure\If then adventure\obj\Debug\net6.0\If then adventure.genruntimeconfig.cache
