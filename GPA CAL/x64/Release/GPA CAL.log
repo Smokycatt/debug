@@ -1,0 +1,9 @@
+﻿  GPA CAL.cpp
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(42,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(46,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(50,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GPA CAL.vcxproj -> C:\Users\duane\source\repos\GPA CAL\x64\Release\GPA CAL.exe

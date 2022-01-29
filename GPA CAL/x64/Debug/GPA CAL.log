@@ -1,0 +1,5 @@
+﻿  GPA CAL.cpp
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(42,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(46,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\duane\source\repos\GPA CAL\GPA CAL.cpp(50,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  GPA CAL.vcxproj -> C:\Users\duane\source\repos\GPA CAL\x64\Debug\GPA CAL.exe
